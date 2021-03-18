@@ -183,7 +183,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;stage1-bg28協同產品設計實習&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -208,22 +208,30 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-協同產品設計實習
+&lt;h2&gt;協同產品設計實習&lt;/h2&gt;
 
 stage1-bg28
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;組員:黃譯賢&lt;/h2&gt;
-    &lt;h2&gt;組員:陳藝晉&lt;/h2&gt;
+  &lt;h2&gt;組員:黃譯賢&lt;/h2&gt;
+  &lt;h2&gt;組員:陳藝晉&lt;/h2&gt;
     
-    &lt;p&gt;
-       專題題目:洗床夾具
+    
     &lt;p&gt;
        &lt;a href="https://s40723140.github.io/cd2021/content/index.html" target="_blank"&gt;黃譯賢 網誌&lt;/a&gt;
     &lt;p&gt;
         &lt;a href="https://github.com/s40723140/cd2021" target="_blank"&gt;黃譯賢 倉儲&lt;/a&gt;.
+       
+    &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200818170535.1">&lt;section&gt;
+    &lt;h2&gt;專題題目:洗床夾具&lt;/h2&gt;
+    
+    
+    
+    &lt;p&gt;
+    專題動機:對於加工客製化不規則之工件，在夾持工件時總會遇到工件無法夾緊的問題，於是我們想把虎鉗設計的構想轉化成設計為一個較輕的夾具，以方便夾持物體 ，且不需把虎鉗在拆來拆去，又省時又省力。
+      
        
     &lt;/p&gt;
 &lt;/section&gt;
@@ -244,21 +252,22 @@ stage1-bg28
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
+<t tx="leo.20200818170909.1">&lt;section data-background="#ffc0cb"&gt;
+&lt;section&gt;
+    &lt;h2&gt;零件圖&lt;/h2&gt;
+    &lt;p&gt;
+    床台
+    &lt;/p&gt;
+    &lt;img src="https://imageshack.com/i/pn6Ga5efp"
     &lt;/a&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
+<t tx="leo.20200818170953.1">&lt;section data-background="#ffc0cb"&gt;
+&lt;section&gt;
+    &lt;h2&gt;零件圖&lt;/h2&gt;
+    &lt;img src="https://imageshack.com/i/pn6Ga5efp"
+    &lt;/a&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;Basement Level 2&lt;/h2&gt;
     &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
