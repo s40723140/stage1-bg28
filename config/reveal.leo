@@ -217,9 +217,12 @@ stage1-bg28
     
     &lt;p&gt;
        &lt;a href="https://s40723140.github.io/cd2021/content/index.html" target="_blank"&gt;黃譯賢 網誌&lt;/a&gt;
+    
+        &lt;a href="https://github.com/s40723140/cd2021" target="_blank"&gt;倉儲&lt;/a&gt;
     &lt;p&gt;
-        &lt;a href="https://github.com/s40723140/cd2021" target="_blank"&gt;黃譯賢 倉儲&lt;/a&gt;.
-       
+     &lt;a href="https://s40723135.github.io/cd2021/content/index.html" target="_blank"&gt;陳藝晉 網誌&lt;/a&gt;
+    
+       &lt;a href="https://github.com/s40723135/cd2021" target="_blank"&gt;倉儲&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -245,37 +248,38 @@ stage1-bg28
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+        遇到困難:
+起初在構想與設計的過程中,常常要考慮加工時間、加工成本等等問題,但最大的困難點是我們在設計夾爪的時候,想不出來夾爪的頂桿是如何夾緊後固定住的。
+    &lt;p&gt;
+      解決發法:
+我們除了討論以外，也上網查詢相關的影片與文章,但最後我們在一家公司的晚佔有介紹類似的原理，並以這個原理進行我們的夾爪設計與構想。
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section data-background="#ffc0cb"&gt;
-&lt;section&gt;
+<t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;零件圖&lt;/h2&gt;
     &lt;p&gt;
-    床台
+    洗床夾具
     &lt;/p&gt;
-    &lt;img src="https://imageshack.com/i/pn6Ga5efp"
+    &lt;img src="https://imagizer.imageshack.com/v2/1100x591q90/r/924/XHeNiz.png"
     &lt;/a&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170953.1">&lt;section data-background="#ffc0cb"&gt;
-&lt;section&gt;
-    &lt;h2&gt;零件圖&lt;/h2&gt;
-    &lt;img src="https://imageshack.com/i/pn6Ga5efp"
+<t tx="leo.20200818170953.1">&lt;section&gt;
+    &lt;h2&gt;夾制具&lt;/h2&gt;
+    &lt;img src="https://imagizer.imageshack.com/v2/555x252q90/r/924/u0JZKt.png"
     &lt;/a&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
+    &lt;h2&gt;底座&lt;/h2&gt;
+    &lt;img src="https://imagizer.imageshack.com/v2/555x299q90/r/922/70dN8U.png"
     &lt;/a&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
